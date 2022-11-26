@@ -11,4 +11,4 @@
 
 - Finally after analyzing data from a real-world network we had to classify the topology.
 
-The initial graphs REG, RG(ER), SW, SF ,RGER were created using Networkx functions with specific parameters.
+The initial graphs REG, RG(ER), SW, SF ,RGG were created using Networkx functions with specific parameters.
