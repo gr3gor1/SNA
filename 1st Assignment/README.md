@@ -5,7 +5,7 @@
 
 - Next we had to analyze the different kinds of centrality per type (e.g. degree centrality, katz centrality, closeness centrality, betweenness centrality). 
 
-- Also we applied the PageRank algorithm to observe its output and then we analyzed the robustness and connectivity per different type. 
+- Also we applied the PageRank algorithm on a real-world to observe its output and then we analyzed the robustness and connectivity per different type of graph. 
 
 - Then we analyzed how REG topologies react when g value increases (REG-->SW-->RG(ER)). 
 
