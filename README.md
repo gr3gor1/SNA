@@ -3,4 +3,4 @@
  
  ## Description :
  
-This repository contains the assignments developed in order to complete the Social Networks Analysis course in ECE NTUA. For more info on each project, please refer to the corresponding file.
+This repository contains the assignments developed in order to complete the Social Networks Analysis course in ECE NTUA. For more info on each project, <b>please refer</b> to the corresponding file.
